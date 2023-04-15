@@ -2,4 +2,4 @@
 saved conky configs
 
 # install
-```pacman -S conky
+```sudo pacman -S conky```
