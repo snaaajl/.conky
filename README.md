@@ -1,2 +1,2 @@
-# conkystuff
-my conky widgets
+# .conky
+saved conky configs
